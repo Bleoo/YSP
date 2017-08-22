@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context="io.github.bleoo.ysp.MainActivity">
 
-    <SurfaceView
+    <FrameLayout
         android:id="@+id/surface_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
